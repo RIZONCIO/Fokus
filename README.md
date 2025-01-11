@@ -29,7 +29,7 @@ O **Fokus** é mais do que apenas um temporizador - é uma ferramenta que combin
 
 Gostaria de experimentar o **Fokus**? Clique no botão abaixo para acessar o site e começar a gerenciar seu tempo de forma eficaz.
 
-[![Teste Agora](https://github.com/user-attachments/assets/035fabe3-c921-4829-b738-445a97aa0e6f)](https://fokus-ruddy.vercel.app/)
+[![Teste Agora](https://github.com/user-attachments/assets/035fabe3-c921-4829-b738-445a97aa0e6f)](https://fokus-mu-lilac.vercel.app/)
 
 ## Agradecimentos
 
